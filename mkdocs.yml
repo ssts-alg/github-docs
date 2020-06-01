@@ -11,7 +11,8 @@ nav:
 
 
 repo_name: 'GitHUb'
-repo_url: ''
+repo_url: 'https://github.com/suresh-devops/github-docs'
+
 theme:
     name: material
     palette:
