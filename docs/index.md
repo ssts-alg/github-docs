@@ -6,7 +6,7 @@ This Docs By `Suresh Babu`
 
 * `suresh` - Author.
 
-![abc.png](iamges//abc/abc.png)
+![devops.png](iamges//abc/devops.png)
 
 * `kannan` - Writter
 ## Project layout
