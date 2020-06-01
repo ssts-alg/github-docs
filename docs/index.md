@@ -6,7 +6,7 @@ This Docs By `Suresh Babu`
 
 * `suresh` - Author.
 
-![suresh.png](images/suresh.png)
+![suresh.jpg](images/suresh.jpg)
 
 * `kannan` - Writter
 ## Project layout
