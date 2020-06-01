@@ -1,1 +1,16 @@
-site_name: My Docs
+site_name: suresh Website
+site_description: About Suresh
+site_author: Suresh
+nav:
+    - Overview: index.md
+    - Test:
+        - Test1: test1.md
+        - Test2: test2.md
+    - Package: pack.md
+    - Deploy: deploy.md
+
+theme:
+    name: material
+    palette:
+        primary: 'indigo'
+        accent: 'white'
