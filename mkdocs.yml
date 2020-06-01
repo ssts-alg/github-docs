@@ -9,8 +9,18 @@ nav:
     - Package: pack.md
     - Deploy: deploy.md
 
+
+repo_name: 'GitHUb'
+repo_url: ''
 theme:
     name: material
     palette:
         primary: 'indigo'
         accent: 'white'
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/suresh-devops/github-docs'
+    - type: 'slack'
+      link: 'https://slack.com'
